@@ -1,0 +1,245 @@
+{
+  "assetMasterId": 1356,
+  "fullAssetName": "Honda Brio RS",
+  "manufacture": 2023,
+  "brand": "Honda",
+  "type": "Car",
+  "branch": "Kebon Jeruk",
+  "city": "Jakarta Barat",
+  "address": "Jl. Kebon Jeruk No. 80",
+  "phone": "02153673030",
+  "listUser": [
+    {
+      "id": 1,
+      "name": "Kusnendi",
+      "city": "Sukabumi",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "name": "Indra Saptji",
+      "city": "Bandung",
+      "age": 50
+    },
+    {
+      "id": 3,
+      "name": "Yudi Wijaya",
+      "city": "Jakarta",
+      "age": 45
+    }
+  ],
+  "Data": [
+    {
+      "CustName": "Lora Kris",
+      "Amount": 18259,
+      "Address": "249 Ed Unions",
+      "Email": "Jeremy31@gmail.com",
+      "id": "1"
+    },
+    {
+      "CustName": "Darlene Pacocha",
+      "Amount": 53325,
+      "Address": "3589 Adams Square",
+      "Email": "Raegan_Franey@yahoo.com",
+      "id": "2"
+    },
+    {
+      "CustName": "Jody Pollich",
+      "Amount": 84536,
+      "Address": "1105 Cummings Glens",
+      "Email": "Lula.Lebsack@hotmail.com",
+      "id": "3"
+    },
+    {
+      "CustName": "Kara Barrows MD",
+      "Amount": 31749,
+      "Address": "74925 Beier Unions",
+      "Email": "Elza.Kub51@yahoo.com",
+      "id": "4"
+    },
+    {
+      "CustName": "Paul Kuhn",
+      "Amount": 58977,
+      "Address": "3034 Issac Stream",
+      "Email": "Raphaelle_Gislason@hotmail.com",
+      "id": "5"
+    },
+    {
+      "CustName": "Mr. Lori Williamson",
+      "Amount": 94,
+      "Address": "126 Cormier Plains",
+      "Email": "Carrie.VonRueden94@hotmail.com",
+      "id": "6"
+    },
+    {
+      "CustName": "Ruth Medhurst PhD",
+      "Amount": 14454,
+      "Address": "204 Ashley Crossing",
+      "Email": "Skye.Adams@gmail.com",
+      "id": "7"
+    },
+    {
+      "CustName": "Laurie Haag",
+      "Amount": 10638,
+      "Address": "717 Wolff Views",
+      "Email": "Kayley_Cassin17@yahoo.com",
+      "id": "8"
+    },
+    {
+      "CustName": "Myra White",
+      "Amount": 58464,
+      "Address": "047 Janis Pines",
+      "Email": "Jarvis8@gmail.com",
+      "id": "9"
+    },
+    {
+      "CustName": "Troy Schinner",
+      "Amount": 70939,
+      "Address": "87153 Boehm Turnpike",
+      "Email": "August.Wisoky6@gmail.com",
+      "id": "10"
+    },
+    {
+      "CustName": "Kim Rodriguez",
+      "Amount": 39603,
+      "Address": "85223 Macejkovic Way",
+      "Email": "Reva54@gmail.com",
+      "id": "11"
+    },
+    {
+      "CustName": "Nadine Kerluke",
+      "Amount": 51136,
+      "Address": "10657 Bechtelar Streets",
+      "Email": "Mina47@gmail.com",
+      "id": "12"
+    },
+    {
+      "CustName": "Roberto Rippin",
+      "Amount": 81503,
+      "Address": "873 Macie Heights",
+      "Email": "Dangelo99@hotmail.com",
+      "id": "13"
+    },
+    {
+      "CustName": "Kathy Farrell DVM",
+      "Amount": 14707,
+      "Address": "1690 Schmidt Groves",
+      "Email": "Ryleigh66@hotmail.com",
+      "id": "14"
+    },
+    {
+      "CustName": "Miss Norma Johnson",
+      "Amount": 42723,
+      "Address": "09384 Mariane Island",
+      "Email": "Isabella85@hotmail.com",
+      "id": "15"
+    },
+    {
+      "CustName": "Salvador Lubowitz",
+      "Amount": 38599,
+      "Address": "823 Weimann Lock",
+      "Email": "Milford69@yahoo.com",
+      "id": "16"
+    },
+    {
+      "CustName": "Allen Nicolas",
+      "Amount": 17033,
+      "Address": "19164 Emerson Club",
+      "Email": "Alex.Jenkins93@gmail.com",
+      "id": "17"
+    },
+    {
+      "CustName": "Dwayne Cremin",
+      "Amount": 31000,
+      "Address": "3466 Karelle Ports",
+      "Email": "Linwood_Reinger15@yahoo.com",
+      "id": "18"
+    },
+    {
+      "CustName": "Henrietta Willms",
+      "Amount": 88709,
+      "Address": "14325 Alfreda Lights",
+      "Email": "Waylon_Bernier@yahoo.com",
+      "id": "19"
+    },
+    {
+      "CustName": "Casey Sauer",
+      "Amount": 45979,
+      "Address": "21110 Torphy Lights",
+      "Email": "Juanita.Shanahan23@gmail.com",
+      "id": "20"
+    },
+    {
+      "CustName": "Lori Gottlieb",
+      "Amount": 61338,
+      "Address": "958 Kevin Way",
+      "Email": "Randal25@hotmail.com",
+      "id": "21"
+    }
+  ],
+  "AgrmntNo": "0002AGR20221206814",
+  "MouCustId": "30871",
+  "MouInfo": {
+    "MouCustId": 30871,
+    "MouCustNo": "0002MOU20211103933",
+    "MrCustTypeCode": "PERSONAL",
+    "MouCustDt": null,
+    "TopupMouCustId": null,
+    "CustNo": "0002CUST20210601167",
+    "ApplicantNo": null,
+    "CustName": "Shafiq 3",
+    "StartDt": "2021-11-13T00:00:00",
+    "EndDt": "2022-01-29T00:00:00",
+    "RefNo": "",
+    "IsRevolving": false,
+    "CurrCode": "IDR",
+    "PlafondType": "BOAMT",
+    "PlafondAmt": 370000000.00,
+    "RealisationAmt": 0.00,
+    "MouStat": "MAP",
+    "MrMouTypeCode": "GENERAL",
+    "Notes": null,
+    "SrvyOrderNo": null,
+    "InProcessAmt": 0.00,
+    "AvailableAmt": 0.00,
+    "MouCustStatView": "",
+    "MrRevolvingTypeCode": null,
+    "IsExistingCust": true,
+    "IsFreeze": false,
+    "IdExpiredDt": null,
+    "OriOfficeCode": "0002",
+    "OriOfficeName": "Kebon Jeruk",
+    "CrtOfficeCode": "0002",
+    "CrtOfficeName": "Kebon Jeruk"
+  },
+  "MouCustNo": "0002MOU20211103933",
+  "MrCustTypeCode": "PERSONAL",
+  "MouCustDt": null,
+  "TopupMouCustId": null,
+  "CustNo": "0002CUST20210601167",
+  "ApplicantNo": null,
+  "CustName": "Shafiq 3",
+  "StartDt": "2021-11-13T00:00:00",
+  "EndDt": "2022-01-29T00:00:00",
+  "RefNo": "",
+  "IsRevolving": false,
+  "CurrCode": "IDR",
+  "PlafondType": "BOAMT",
+  "PlafondAmt": 370000000.00,
+  "RealisationAmt": 0.00,
+  "MouStat": "MAP",
+  "MrMouTypeCode": "GENERAL",
+  "Notes": null,
+  "SrvyOrderNo": null,
+  "InProcessAmt": 0.00,
+  "AvailableAmt": 0.00,
+  "MouCustStatView": "",
+  "MrRevolvingTypeCode": null,
+  "IsExistingCust": true,
+  "IsFreeze": false,
+  "IdExpiredDt": null,
+  "OriOfficeCode": "0002",
+  "OriOfficeName": "Kebon Jeruk",
+  "CrtOfficeCode": "0002",
+  "CrtOfficeName": "Kebon Jeruk"
+}
