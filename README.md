@@ -1,4 +1,4 @@
-# templates-api
+# adins-uistudio-api
 
 a [Sails v1](https://sailsjs.com) application
 
